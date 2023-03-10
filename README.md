@@ -2,7 +2,7 @@ Tours App which created with ReactJs.
 
 Click demo to try it by yourself!
 
-## Menu App Demo Link
+## Tours App Demo Link
 
 You can view the site here
 [Click Me](https://tours-guide.netlify.app/)
